@@ -1,0 +1,8 @@
+20							time for RIGTH, sec
+10							time for LEFT, sec
+17.06.2022						date for start RIGHT
+17:48							time for start RIGHT
+121							period LEFT
+17.06.2022						date for start LEFT
+17:49							time for start LEFT
+201							period RIGHT
